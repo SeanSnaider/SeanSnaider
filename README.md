@@ -2,7 +2,7 @@
 
 CS student at Northeastern (Software Engineering) — I like building things that solve problems I actually have.
 
-I've been speedcubing for 10+ years (sub-7 seconds), play progressive guitar, and tend to turn my hobbies into code. Currently TA'ing intro CS courses and seeking a **co-op for Jan–Aug 2026**.
+I've been speedcubing for 10+ years (sub-7 seconds), play progressive guitar, and tend to turn my hobbies into code. Currently TA'ing intro CS courses and seeking a **co-op for July to Decemeber of 2026*.
 
 ---
 
