@@ -20,8 +20,9 @@ I've been speedcubing for 10+ years (sub-7 seconds), play progressive guitar, an
 
 ### What I Work With
 
-**Languages:** Python, Java, C, TypeScript, SQL  
-**Tools:** React, FUSE, Git, Linux, Docker
+**Languages:** Python, Java, C, x86-64 Assembly, SQL, JavaScript, TypeScript
+**Frameworks & Libraries:** React, Next.js, Tailwind, Zustand, Web Audio API, Pandas, NumPy, Matplotlib, Pygame, Java Swing
+**Tools & Platforms:** Git, Linux/WSL, Docker, GDB, Vite, JUnit, Unittest, VS Code, IntelliJ IDEA, Vercel
 
 ---
 
