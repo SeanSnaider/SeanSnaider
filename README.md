@@ -1,6 +1,6 @@
 # Hey, I'm Sean 👋
 
-I'm a sophomore CS student at Northeastern University looking for a **Fall 2026 co-op** in software engineering. I like building things that come from my actual interests — I've been speedcubing for over a decade (sub-7 seconds) and playing guitar for years, and both have turned into full-stack projects.
+I'm a sophomore CS student at Northeastern University looking for a **Fall 2026 co-op** in software engineering. I like building things that come from my actual interests — I've been speedcubing for over a decade (sub-7 seconds) and playing guitar for a year and a half now, and both have turned into full-stack projects.
 
 ## What I've Built
 
