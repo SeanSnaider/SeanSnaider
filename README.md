@@ -1,33 +1,23 @@
 # Hey, I'm Sean 👋
 
-CS student at Northeastern (Software Engineering) — I like building things that solve problems I actually have.
+I'm a sophomore CS student at Northeastern University looking for a **Fall 2026 co-op** in software engineering. I like building things that come from my actual interests — I've been speedcubing for over a decade (sub-7 seconds) and playing guitar for years, and both have turned into full-stack projects.
 
-I've been speedcubing for 10+ years (sub-7 seconds), play progressive guitar, and tend to turn my hobbies into code. Currently TA'ing Object Oriented Design and seeking a **co-op for July to Decemeber of 2026*.
+## What I've Built
 
----
+🧊 **[Rubik's Cube Solver and Teaching Tool](https://github.com/SeanSnaider/RubiksCubeProject)**
+A 3D cube simulator with a near-optimal solver (Kociemba's algorithm, ≤20 moves in <1s), a competition-style timer with WCA inspection, and persistent solve tracking. Started as a Pygame capstone built with [TheCubicle.com](https://www.thecubicle.com/), then rebuilt from scratch as a full-stack web app with React, TypeScript, FastAPI, CSS 3D transforms, and MongoDB.
 
-### Featured Projects
+🎸 **[Guitar Learning Tool](https://github.com/SeanSnaider/GuitarLearningTool)**
+An interactive fretboard trainer with <10ms audio latency via Web Audio API, 40+ scale patterns (modes, pentatonics, jazz), and three adaptive practice modes. Built with React, TypeScript, Zustand, and Tailwind.
 
-🎸 **[Guitar Scale Teacher](https://guitarscaleteacher.vercel.app/)** — Interactive fretboard app for learning scales and ear training. Real-time audio synthesis with <10ms latency.
+## What I'm Working On Now
 
-🧊 **Rubik's Cube Solver** — 3D simulator with Kociemba's algorithm (≤20 moves, <1 second) and a step-by-step teaching mode.
+🎵 **ChordAI** — An AI-powered chord progression generator. You describe a vibe or style, and it generates playable progressions with real-time audio playback over WebSockets. Built with React, TypeScript, FastAPI, the Anthropic API, librosa, and MongoDB.
 
-🗂️ **FUSE File System** — Wrote a filesystem driver in C. Inodes, bitmaps, memory-mapped I/O—the whole deal.
+🔧 **Weekly learning projects** — I'm working through a series of small builds to get hands-on with tools I haven't used much yet. The lineup includes containerizing an API with Docker, setting up CI/CD with GitHub Actions, deploying a serverless function on AWS Lambda, building a CLI tool with the Anthropic API, and instrumenting an app with Prometheus and Grafana. Each one is scoped to about a week and tied to something I actually care about (cubing, guitar, coursework).
 
-🎮 **Sanguine** — Two-player strategy game in Java with pluggable AI and real-time state sync.
+## Links
 
----
-
-### What I Work With
-
-**Languages:** Python, Java, C, x86-64 Assembly, SQL, JavaScript, TypeScript
-
-**Frameworks & Libraries:** React, Next.js, Tailwind, Zustand, Web Audio API, Pandas, NumPy, Matplotlib, Pygame, Java Swing
-
-**Tools & Platforms:** Git, Linux/WSL, Docker, GDB, Vite, JUnit, Unittest, VS Code, IntelliJ IDEA, Vercel
-
----
-
-### Let's Connect
-
-[seansnaider.vercel.app](https://seansnaider.vercel.app) · [LinkedIn](https://linkedin.com/in/seansnaider) · sean@snaider.com
+- 🌐 [seansnaider.com](https://seansnaider.com)
+- 💼 [LinkedIn](https://linkedin.com/in/seansnaider)
+- 📫 sean@snaider.com
