@@ -1,23 +1,29 @@
 # Hey, I'm Sean 👋
 
-I'm a sophomore CS student at Northeastern University looking for a **Fall 2026 co-op** in software engineering. I like building things that come from my actual interests: I've been speedcubing for over a decade (sub-7 seconds) and playing guitar for 2 years now, and both have turned into full-stack projects.
+CS student at Northeastern (B.S. Computer Science, Software Engineering concentration, '28), currently on co-op at **Vertex Pharmaceuticals** in Boston building Python tooling for data migration.
+
+Most of what I build starts from something I already care about. I've been speedcubing for over a decade and playing guitar for a few years, and both have turned into projects that got me further into systems and algorithms than any tutorial would have.
+
+## What I'm Building Now
+
+**Optimal Rubik's Cube Solver** (Rust) — Korf's algorithm: IDA\* search over cubie-level state with backward-BFS pattern databases and factorial-number-system ranking. Guarantees optimal solutions, unlike the Kociemba solver below.
 
 ## What I've Built
 
-🧊 **Rubik's Cube Solver and Teaching Tool** A 3D cube simulator with a near-optimal solver (Kociemba's algorithm, ≤20 moves in <1s), a competition-style timer with WCA inspection, and persistent solve tracking. Started as a Pygame capstone built with **TheCubicle.com**, then rebuilt from scratch as a full-stack web app with React, TypeScript, FastAPI, CSS 3D transforms, and MongoDB.
+🧊 **[Rubik's Cube Solver and Teaching Tool](https://github.com/SeanSnaider/RubiksCubeProject)** — Reverse-engineered undocumented orientation requirements in Kociemba's algorithm to produce sub-20-move solutions in under a second. Deployed as a full-stack app with CSS 3D cube rendering and a competition-style timer, now used by 10+ people in my cubing circle.
+`Python` `React` `TypeScript` `FastAPI` `MongoDB`
 
-🎸 **Guitar Learning Tool** An interactive fretboard trainer with <10ms audio latency via Web Audio API, 40+ scale patterns (modes, pentatonics, jazz), and three adaptive practice modes. Built with React, TypeScript, Zustand, and Tailwind.
+🎸 **[Guitar Learning Tool](https://github.com/SeanSnaider/Guitar-Scale-Tool)** — Browser-based chord detection that analyzes microphone input in the frequency domain via the Web Audio API to identify played chords in real time. Wrapped in a practice tracker with gamified scale progression, plus an Anthropic API integration that generates personalized chord progressions from structured practice history. 50-test async pytest suite.
+`React` `TypeScript` `FastAPI` `Anthropic API` `Web Audio API`
 
-🏛️ **Student Government Association: Internal Tools** Building attendance tracking and voting management tools used by Northeastern's Student Government. Working on a team of 8 with React, TypeScript, Next.js, Prisma, and PostgreSQL.
+🏛️ **SGA Internal Tools** — Replaced spreadsheet-based attendance and voting workflows with a full-stack app used by 50+ Student Government members across 20+ officer meetings a semester. Moved vote validation server-side with Next.js API routes, Prisma, and schema-based request validation. Ran in production for executive officer elections.
+`Next.js` `TypeScript` `Prisma` `PostgreSQL`
 
-## What I'm Working On Now
-
-🎵 **ChordAI** — An AI-powered chord progression generator. You describe a vibe or style, and it generates playable progressions with real-time audio playback over WebSockets. Built with React, TypeScript, FastAPI, the Anthropic API, librosa, and MongoDB. If you want source code, please feel free to reach out to me via email or LinkedIn!
-
-🔧 **Weekly learning projects** — I'm working through a series of small builds to get hands-on with tools I haven't used much yet. The lineup includes containerizing an API with Docker, setting up CI/CD with GitHub Actions, deploying a serverless function on AWS Lambda, building a CLI tool with the Anthropic API, and instrumenting an app with Prometheus and Grafana. Each one is scoped to about a week and tied to something I actually care about (cubing, guitar, coursework). If you want source code, please feel free to reach out to me via email or LinkedIn!
+⚙️ **Systems Programming** (coursework, private repo) — FUSE filesystem driver in C with block allocation tracked by a hand-built bitmap; dynamic memory allocator using a first-fit linked-list free list; Unix shell supporting piping and I/O redirection. Wrote x86-64 assembly throughout to trace how compiled C maps to machine behavior. Course policy keeps the source private, but I'm happy to walk through any of it.
+`C` `x86-64 Assembly` `Linux`
 
 ## Links
 
 - 🌐 [seansnaider.com](https://seansnaider.com)
 - 💼 [LinkedIn](https://linkedin.com/in/seansnaider)
-- 📫 sean@snaider.com
+- 📫 <sean@snaider.com> <snaider.s@northeastern.edu>
